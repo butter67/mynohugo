@@ -1,0 +1,74 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Mynorities"
+theme = "dream"
+
+[params]
+  background = "#fcfcfc"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "goldenrod"
+
+  # dark mode
+  # defaultDark = true
+  # backgroundDark = "black"
+  # backgroundImageDark = "/me/background-dark.jpg"
+  # darkLinkColor = "goldenrod"
+  # darkNav = true
+  # dark404 = true
+
+  author = "Butter"
+  # description = ""
+  avatar = "/img/me.jpg"
+  headerTitle = "Mynorities"
+  motto = "Butter"
+  # maxTags = 10
+  # categoriesLimitInHeader = 6 # deprecated
+  # headerBottomText = "" # deprecated
+
+  # footerBottomText = ""
+
+  # rss = true
+
+  # utterancesRepo = ""
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+
+  email = "erioikawa617@gmail.com"
+  # twitter = ""
+  # facebook = ""
+  # instagram = ""
+  # mastodon = ""
+  # linkedin = ""
+  # github = ""
+  # stackoverflow = ""
+  # codepen = ""
+
+  siteStartYear = 2021
+
+  # favicon = "/favicon.ico"
+
+  # highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  # highlightjsExtraLanguages = ["ocaml"]
+  # highlightjsTheme = "gruvbox-light"
+  # highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  # enableSearch = true
+
+  # options
+  # showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+  # reversePostAndAside = true
+  # shareInAside = true
+  # fixedNav = true
+
+  # [params.advanced]
+  #   customCSS = ["css/fonts.css","css/custom.css"]
+  #   customJS = []
+
+  # [params.experimental]
+  #   jsDate = true
+  #   jsDateFormat = "yyyy年MM月dd日"

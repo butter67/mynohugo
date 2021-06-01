@@ -1,0 +1,65 @@
+body {
+  background-color: #fff !important;
+}
+/* Tag */
+.ui.label {
+  border-radius: 30px;
+}
+
+/* blogcard */
+.ui.attached.segment {
+  /* box-shadow: 0px 0px 50px #dbdbd2; */
+  box-shadow: 0 3px 20px rgb(0 0 0 / 8%);
+  border-radius: 20px;
+  /* background-color: #daebe649; */
+  border: none;
+}
+.dream-card {
+  background-color: antiquewhite;
+}
+.ui.attached.segment .image {
+  overflow: hidden;
+}
+.ui.attached.segment img {
+  transition: all 0.6s;
+}
+.ui.attached.segment img:hover {
+  transform: scale(1.1, 1.1);
+  transition: all 0.6s;
+  opacity: 0.8;
+}
+.content.header a {
+  font-size: 16px !important;
+}
+.content.header a:hover {
+  color: rgb(134, 115, 65);
+  transition: all 0.7s;
+}
+p.date {
+  padding-top: 8px;
+}
+
+/* Mark down */
+article.main {
+  font-size: 15px;
+}
+.markd {
+  box-shadow: none !important;
+}
+.header {
+  font-size: 26px !important;
+}
+.header.sub {
+  font-size: 17px !important;
+}
+.header span.left {
+  font-size: 15px;
+}
+.markd img:hover {
+  transform: none !important;
+}
+.ui.large.header .sub.header {
+  font-size: 14px;
+  color: gray;
+  padding-top: 14px;
+}
